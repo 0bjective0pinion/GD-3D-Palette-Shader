@@ -8,6 +8,6 @@ This allows the colors to change with lighting, but still remaining the colors o
 
 As I have used it, Red is for lighting within each palette, and green is which set of colors to use.
 
-The two channels can be swapped: the only side-effect is the appearance of the gradient in the editor, under the shader parameters.
+The two channels can be swapped: the only side-effect is the appearance of the gradient in the editor, under the shader parameters, as well as the way in which you would have to organize the color palettes you add.
 
 Enjoy!
